@@ -6,7 +6,7 @@ import com.som.blog.domain.User;
 import com.som.blog.domain.base.UserRole;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 public class CommentServiceTest extends AbstractGenericServiceTest<Comment> {
     @Override

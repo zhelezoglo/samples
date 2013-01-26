@@ -3,7 +3,7 @@ package com.som.blog.service;
 import com.som.blog.domain.User;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 public interface IUserService extends IGenericService<User> {
 

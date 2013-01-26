@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 public class CommentService extends AbstractGenericService<Comment> implements ICommentService {
 

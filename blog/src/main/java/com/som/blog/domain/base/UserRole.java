@@ -1,7 +1,7 @@
 package com.som.blog.domain.base;
 
 /**
- * @author me
+ * @author zhelezoglo
  */
 public enum UserRole {
 

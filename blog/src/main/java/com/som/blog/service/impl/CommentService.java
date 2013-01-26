@@ -1,7 +1,7 @@
 package com.som.blog.service.impl;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 public class CommentService {
 }

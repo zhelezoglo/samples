@@ -13,7 +13,8 @@ import java.util.List;
  * then it should not subclass this interface.
  *
  * @param <T> Domain class to work with
- * @author notme
+ * @author ytkach
+ * @author zhelezoglo
  */
 public interface IGenericService<T extends DomainObject> {
 

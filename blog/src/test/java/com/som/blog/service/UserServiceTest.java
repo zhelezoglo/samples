@@ -12,7 +12,7 @@ import java.util.Collection;
 import static org.junit.Assert.*;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 @Ignore
 public class UserServiceTest extends AbstractGenericServiceTest<User> {

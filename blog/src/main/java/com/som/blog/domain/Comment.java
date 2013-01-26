@@ -6,7 +6,7 @@ import java.util.List;
 
 /**
  *
- * @author som
+ * @author zhelezoglo
  */
 public class Comment extends DomainObject {
 

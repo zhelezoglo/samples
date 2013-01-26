@@ -6,7 +6,7 @@ import com.som.blog.domain.base.DomainObject;
 import javax.persistence.Entity;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 @Entity
 public class User extends DomainObject {

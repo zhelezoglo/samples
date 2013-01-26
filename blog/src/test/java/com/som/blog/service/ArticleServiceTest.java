@@ -9,7 +9,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 public class ArticleServiceTest extends AbstractGenericServiceTest<Article> {
 

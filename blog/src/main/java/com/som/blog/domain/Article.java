@@ -5,7 +5,7 @@ import com.som.blog.domain.base.DomainObject;
 import java.util.List;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 // TODO: Article and Comment should have same parent (interface?)
 public class Article extends DomainObject {

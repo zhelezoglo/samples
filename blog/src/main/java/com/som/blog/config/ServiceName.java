@@ -1,7 +1,7 @@
 package com.som.blog.config;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 public enum ServiceName {
     userService,

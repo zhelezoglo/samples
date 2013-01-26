@@ -7,7 +7,7 @@ import com.som.blog.service.exceptions.GeneralServiceException;
 import java.util.List;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 public interface ICommentService extends IGenericService<Comment> {
 

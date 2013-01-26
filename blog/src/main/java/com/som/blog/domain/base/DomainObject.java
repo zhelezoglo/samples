@@ -16,7 +16,8 @@ import java.util.Map.Entry;
 /**
  * General class for all entities, that makes it possible to store them in DB.
  *
- * @author Notme
+ * @author ytkach
+ * @author zhelezoglo
  */
 public abstract class DomainObject implements Serializable {
     /**
@@ -28,11 +29,6 @@ public abstract class DomainObject implements Serializable {
      * Unique identifier.
      */
     private Long id = null;
-
-    /**
-     * Default locale to use
-     */
-    private Locale defLocale = new Locale("ua", "UA");
 
     /**
      * Simple plain constructor

@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author me
+ * @author zhelezoglo
  */
 public class ArticleService extends AbstractGenericService<Article> implements IArticleService {
 

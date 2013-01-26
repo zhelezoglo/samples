@@ -17,7 +17,9 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 /**
- * @author notme
+ *
+ * @author ytkach
+ * @author zhelezoglo
  */
 public abstract class AbstractGenericServiceTest<T extends DomainObject> {
 

@@ -1,7 +1,7 @@
 package com.som.blog.util;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 // TODO: replace with Spring Utils
 public final class CheckNotNull {

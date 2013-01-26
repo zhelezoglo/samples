@@ -3,7 +3,7 @@ package com.som.blog.config;
 import org.springframework.context.support.GenericXmlApplicationContext;
 
 /**
- * @author som
+ * @author zhelezoglo
  */
 public final class ApplicationConfig {
 

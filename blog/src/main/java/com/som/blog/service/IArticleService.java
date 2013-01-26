@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  *
- * @author som
+ * @author zhelezoglo
  */
 public interface IArticleService extends IGenericService<Article> {
 

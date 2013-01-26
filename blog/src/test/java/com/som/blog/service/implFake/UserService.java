@@ -9,7 +9,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author me
+ * @author zhelezoglo
  */
 public class UserService extends AbstractGenericService<User> implements IUserService {
 
